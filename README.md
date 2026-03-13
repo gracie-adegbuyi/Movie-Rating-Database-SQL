@@ -23,7 +23,8 @@ The database consists of three main tables:
 * **Users Table:** Stores demographic details (Age, Gender, Location).
 * **Movies Table:** Catalogue of films (Title, Release Year, Genre, Director).
 * **Ratings Table:** A transactional bridge linking users to their movie experiences.
-The raw data used for this project can be found in the [data](./data) folder.
+  
+* The raw data used for this project can be found in the [data](./data) folder.
 
 ![ER Diagram](images/ER_Diagram.png)
 
