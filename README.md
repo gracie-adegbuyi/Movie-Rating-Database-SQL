@@ -24,7 +24,7 @@ The database consists of three main tables:
 * **Movies Table:** Catalogue of films (Title, Release Year, Genre, Director).
 * **Ratings Table:** A transactional bridge linking users to their movie experiences.
 
-![ER Diagram](images/ER_Diagram.png.png)
+![ER Diagram](images/ER_Diagram.png)
 
 ## Key Queries Performed
 * Filtering users by age and location.
@@ -46,14 +46,14 @@ SELECT * FROM Users WHERE age > 25;
 ```sql
 SELECT * FROM Users WHERE gender = 'Female' AND location = 'Abuja';
 ```
-![Query Result](images/query_2_result.png)
+![Query Result](images/query_3_result.png)
 
 ### 3. Content Trends (Movies 2000-2020)
 **Goal:** To evaluate the catalogue of modern-era films.
 ```sql
 SELECT * FROM Movies WHERE release_year BETWEEN 2000 AND 2020;
 ```
-![Query Result](images/query_3_result.png)
+![Query Result](images/query_2_result.png)
 
 ### 4. Quality Control (High Ratings Analysis)
 **Goal:** Identify the "Top 3" highest-rated experiences to understand success patterns.
