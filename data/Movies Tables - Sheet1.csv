@@ -1,0 +1,301 @@
+ID,Title,Release_Year,Genre,Director
+1,Inception,2010,Sci-Fi,Christopher Nolan
+2,Black Panther,2018,Action,Ryan Coogler
+3,Titanic,1997,Romance,James Cameron
+4,The Matrix,1999,Sci-Fi,Lana Wachowski
+5,Avatar,2009,Adventure,James Cameron
+6,The Dark Knight,2008,Action,Christopher Nolan
+7,Avengers: Endgame,2019,Action,Anthony Russo
+8,The Shawshank Redemption,1994,Drama,Frank Darabont
+9,Forrest Gump,1994,Drama,Robert Zemeckis
+10,Interstellar,2014,Sci-Fi,Christopher Nolan
+11,Joker,2019,Drama,Todd Phillips
+12,Parasite,2019,Thriller,Bong Joon Ho
+13,Gladiator,2000,Action,Ridley Scott
+14,Frozen,2013,Animation,Chris Buck
+15,The Lion King,1994,Animation,Roger Allers
+16,Doctor Strange,2016,Action,Scott Derrickson
+17,The Godfather,1972,Crime,Francis Coppola
+18,Spider-Man: No Way Home,2021,Action,Jon Watts
+19,Dune,2021,Sci-Fi,Denis Villeneuve
+20,Oppenheimer,2023,Biography,Christopher Nolan
+21,The Avengers,2012,Action,Joss Whedon
+22,Wonder Woman,2017,Action,Patty Jenkins
+23,La La Land,2016,Musical,Damien Chazelle
+24,Joker: Origins,2020,Thriller,Todd Phillips
+25,Toy Story,1995,Animation,John Lasseter
+26,Finding Nemo,2003,Animation,Andrew Stanton
+27,Mad Max: Fury Road,2015,Action,George Miller
+28,The Revenant,2015,Adventure,Alejandro G. Iñárritu
+29,Coco,2017,Animation,Lee Unkrich
+30,Gravity,2013,Sci-Fi,Alfonso Cuarón
+31,Black Swan,2010,Thriller,Darren Aronofsky
+32,Spider-Man: Homecoming,2017,Action,Jon Watts
+33,The Prestige,2006,Mystery,Christopher Nolan
+34,Incredibles 2,2018,Animation,Brad Bird
+35,Titanic II,2010,Romance,James Cameron
+36,King Kong,2005,Adventure,Peter Jackson
+37,Logan,2017,Action,James Mangold
+38,Guardians of the Galaxy,2014,Action,James Gunn
+39,Moana,2016,Animation,Ron Clements
+40,The Irishman,2019,Crime,Martin Scorsese
+41,Jurassic World,2015,Adventure,Colin Trevorrow
+42,Frozen II,2019,Animation,Chris Buck
+43,Batman Begins,2005,Action,Christopher Nolan
+44,Spider-Man 2,2004,Action,Sam Raimi
+45,Soul,2020,Animation,Pete Docter
+46,Memento,2000,Mystery,Christopher Nolan
+47,The Hateful Eight,2015,Thriller,Quentin Tarantino
+48,The Martian,2015,Sci-Fi,Ridley Scott
+49,Shutter Island,2010,Thriller,Martin Scorsese
+50,Black Widow,2021,Action,Cate Shortland
+51,Venom,2018,Action,Ruben Fleischer
+52,Doctor Strange: Multiverse of Madness,2022,Action,Sam Raimi
+53,Thor: Ragnarok,2017,Action,Taika Waititi
+54,Black Panther: Wakanda Forever,2022,Action,Ryan Coogler
+55,Ant-Man,2015,Action,Peyton Reed
+56,Ant-Man and the Wasp,2018,Action,Peyton Reed
+57,Captain America: Civil War,2016,Action,Anthony Russo
+58,Captain Marvel,2019,Action,Anna Boden
+59,Iron Man,2008,Action,Jon Favreau
+60,Iron Man 2,2010,Action,Jon Favreau
+61,Iron Man 3,2013,Action,Shane Black
+62,Spider-Man: Far From Home,2019,Action,Jon Watts
+63,Spider-Man: No Way Home,2021,Action,Jon Watts
+64,Batman v Superman: Dawn of Justice,2016,Action,Zack Snyder
+65,Justice League,2017,Action,Zack Snyder
+66,Wonder Woman 1984,2020,Action,Patty Jenkins
+67,Aquaman,2018,Action,James Wan
+68,Shazam!,2019,Action,David F. Sandberg
+69,Man of Steel,2013,Action,Zack Snyder
+70,Suicide Squad,2016,Action,David Ayer
+71,Guardians of the Galaxy Vol. 2,2017,Action,James Gunn
+72,Avengers: Infinity War,2018,Action,Anthony Russo
+73,Thor,2011,Action,Kenneth Branagh
+74,Thor: The Dark World,2013,Action,Alan Taylor
+75,Doctor Strange,2016,Action,Scott Derrickson
+76,Black Panther,2018,Action,Ryan Coogler
+77,Shang-Chi and the Legend of the Ten Rings,2021,Action,Destin Daniel Cretton
+78,Eternals,2021,Action,Chloé Zhao
+79,Captain America: The First Avenger,2011,Action,Joe Johnston
+80,Captain America: The Winter Soldier,2014,Action,Anthony Russo
+81,Captain America: Civil War,2016,Action,Anthony Russo
+82,Ant-Man,2015,Action,Peyton Reed
+83,Ant-Man and the Wasp,2018,Action,Peyton Reed
+84,Iron Man,2008,Action,Jon Favreau
+85,Iron Man 2,2010,Action,Jon Favreau
+86,Iron Man 3,2013,Action,Shane Black
+87,Spider-Man: Homecoming,2017,Action,Jon Watts
+88,Spider-Man: Far From Home,2019,Action,Jon Watts
+89,Spider-Man: No Way Home,2021,Action,Jon Watts
+90,Batman Begins,2005,Action,Christopher Nolan
+91,The Dark Knight,2008,Action,Christopher Nolan
+92,The Dark Knight Rises,2012,Action,Christopher Nolan
+93,Joker,2019,Drama,Todd Phillips
+94,The Godfather,1972,Crime,Francis Coppola
+95,The Godfather Part II,1974,Crime,Francis Coppola
+96,Pulp Fiction,1994,Crime,Quentin Tarantino
+97,Reservoir Dogs,1992,Crime,Quentin Tarantino
+98,Kill Bill: Vol. 1,2003,Action,Quentin Tarantino
+99,Kill Bill: Vol. 2,2004,Action,Quentin Tarantino
+100,Django Unchained,2012,Western,Quentin Tarantino
+101,Once Upon a Time in Hollywood,2019,Comedy,Quentin Tarantino
+102,Inglourious Basterds,2009,War,Quentin Tarantino
+103,The Hateful Eight,2015,Thriller,Quentin Tarantino
+104,Reservoir Dogs,1992,Crime,Quentin Tarantino
+105,Jackie Brown,1997,Crime,Quentin Tarantino
+106,1917,2019,War,Sam Mendes
+107,Skyfall,2012,Action,Sam Mendes
+108,Spectre,2015,Action,Sam Mendes
+109,James Bond: No Time to Die,2021,Action,Cary Joji Fukunaga
+110,Casino Royale,2006,Action,Martin Campbell
+111,Quantum of Solace,2008,Action,Marc Forster
+112,Mission: Impossible,1996,Action,Brian De Palma
+113,Mission: Impossible 2,2000,Action,John Woo
+114,Mission: Impossible III,2006,Action,J.J. Abrams
+115,Mission: Impossible – Ghost Protocol,2011,Action,Brad Bird
+116,Mission: Impossible – Rogue Nation,2015,Action,Christopher McQuarrie
+117,Mission: Impossible – Fallout,2018,Action,Christopher McQuarrie
+118,Top Gun,1986,Action,Tony Scott
+119,Top Gun: Maverick,2022,Action,Joseph Kosinski
+120,Deadpool,2016,Action,Tim Miller
+121,Deadpool 2,2018,Action,David Leitch
+122,Logan,2017,Action,James Mangold
+123,X-Men: Days of Future Past,2014,Action,Bryan Singer
+124,X-Men: First Class,2011,Action,Matthew Vaughn
+125,X-Men: Apocalypse,2016,Action,Bryan Singer
+126,X-Men: Dark Phoenix,2019,Action,Simon Kinberg
+127,The Wolverine,2013,Action,James Mangold
+128,Fantastic Four,2005,Action,Tim Story
+129,Fantastic Four: Rise of the Silver Surfer,2007,Action,Tim Story
+130,Deadpool 2,2018,Action,David Leitch
+131,Spider-Man,2002,Action,Sam Raimi
+132,Spider-Man 2,2004,Action,Sam Raimi
+133,Spider-Man 3,2007,Action,Sam Raimi
+134,The Amazing Spider-Man,2012,Action,Marc Webb
+135,The Amazing Spider-Man 2,2014,Action,Marc Webb
+136,Venom,2018,Action,Ruben Fleischer
+137,Venom: Let There Be Carnage,2021,Action,Andy Serkis
+138,Morbius,2022,Action,Daniel Espinosa
+139,Doctor Strange,2016,Action,Scott Derrickson
+140,Doctor Strange in the Multiverse of Madness,2022,Action,Sam Raimi
+141,Ant-Man,2015,Action,Peyton Reed
+142,Ant-Man and the Wasp,2018,Action,Peyton Reed
+143,Guardians of the Galaxy,2014,Action,James Gunn
+144,Guardians of the Galaxy Vol. 2,2017,Action,James Gunn
+145,Thor,2011,Action,Kenneth Branagh
+146,Thor: The Dark World,2013,Action,Alan Taylor
+147,Thor: Ragnarok,2017,Action,Taika Waititi
+148,Thor: Love and Thunder,2022,Action,Taika Waititi
+149,Black Panther,2018,Action,Ryan Coogler
+150,Black Panther: Wakanda Forever,2022,Action,Ryan Coogler
+151,Avatar,2009,Adventure,James Cameron
+152,Titanic,1997,Romance,James Cameron
+153,Terminator,1984,Sci-Fi,James Cameron
+154,Terminator 2: Judgment Day,1991,Sci-Fi,James Cameron
+155,Aliens,1986,Sci-Fi,James Cameron
+156,The Abyss,1989,Sci-Fi,James Cameron
+157,True Lies,1994,Action,James Cameron
+158,Piranha 3D,2010,Horror,Alexandre Aja
+159,Crawl,2019,Thriller,Alexandre Aja
+160,High Tension,2003,Horror,Alexandre Aja
+161,Horns,2013,Fantasy,Alexandre Aja
+162,Mirrors,2008,Horror,Alexandre Aja
+163,The Shallows,2016,Thriller,Jaume Collet-Serra
+164,Orphan,2009,Thriller,Jaume Collet-Serra
+165,Unknown,2011,Thriller,Jaume Collet-Serra
+166,Non-Stop,2014,Thriller,Jaume Collet-Serra
+167,Run All Night,2015,Action,Jaume Collet-Serra
+168,Jungle Cruise,2021,Adventure,Jaume Collet-Serra
+169,Black Widow,2021,Action,Cate Shortland
+170,Shang-Chi and the Legend of the Ten Rings,2021,Action,Destin Daniel Cretton
+171,Eternals,2021,Action,Chloé Zhao
+172,Doctor Strange in the Multiverse of Madness,2022,Action,Sam Raimi
+173,Thor: Love and Thunder,2022,Action,Taika Waititi
+174,Black Panther: Wakanda Forever,2022,Action,Ryan Coogler
+175,Spider-Man: No Way Home,2021,Action,Jon Watts
+176,Spider-Man: Far From Home,2019,Action,Jon Watts
+177,Spider-Man: Homecoming,2017,Action,Jon Watts
+178,Avengers: Endgame,2019,Action,Anthony Russo
+179,Avengers: Infinity War,2018,Action,Anthony Russo
+180,Captain America: Civil War,2016,Action,Anthony Russo
+181,Captain America: The Winter Soldier,2014,Action,Anthony Russo
+182,Captain America: The First Avenger,2011,Action,Joe Johnston
+183,Iron Man,2008,Action,Jon Favreau
+184,Iron Man 2,2010,Action,Jon Favreau
+185,Iron Man 3,2013,Action,Shane Black
+186,Thor,2011,Action,Kenneth Branagh
+187,Thor: The Dark World,2013,Action,Alan Taylor
+188,Guardians of the Galaxy,2014,Action,James Gunn
+189,Guardians of the Galaxy Vol. 2,2017,Action,James Gunn
+190,Ant-Man,2015,Action,Peyton Reed
+191,Ant-Man and the Wasp,2018,Action,Peyton Reed
+192,Deadpool,2016,Action,Tim Miller
+193,Deadpool 2,2018,Action,David Leitch
+194,Logan,2017,Action,James Mangold
+195,X-Men: Days of Future Past,2014,Action,Bryan Singer
+196,X-Men: Apocalypse,2016,Action,Bryan Singer
+197,X-Men: Dark Phoenix,2019,Action,Simon Kinberg
+198,The Wolverine,2013,Action,James Mangold
+199,Fantastic Four,2005,Action,Tim Story
+200,Fantastic Four: Rise of the Silver Surfer,2007,Action,Tim Story
+201,Inception,2010,Sci-Fi,Christopher Nolan
+202,Interstellar,2014,Sci-Fi,Christopher Nolan
+203,Dunkirk,2017,War,Christopher Nolan
+204,Tenet,2020,Sci-Fi,Christopher Nolan
+205,Memento,2000,Mystery,Christopher Nolan
+206,The Prestige,2006,Mystery,Christopher Nolan
+207,Batman Begins,2005,Action,Christopher Nolan
+208,The Dark Knight,2008,Action,Christopher Nolan
+209,The Dark Knight Rises,2012,Action,Christopher Nolan
+210,Oppenheimer,2023,Biography,Christopher Nolan
+211,Parasite,2019,Thriller,Bong Joon Ho
+212,Snowpiercer,2013,Sci-Fi,Bong Joon Ho
+213,Okja,2017,Adventure,Bong Joon Ho
+214,Memories of Murder,2003,Crime,Bong Joon Ho
+215,The Host,2006,Horror,Bong Joon Ho
+216,Gladiator,2000,Action,Ridley Scott
+217,Alien,1979,Sci-Fi,Ridley Scott
+218,Aliens,1986,Sci-Fi,James Cameron
+219,Prometheus,2012,Sci-Fi,Ridley Scott
+220,The Martian,2015,Sci-Fi,Ridley Scott
+221,Blade Runner,1982,Sci-Fi,Ridley Scott
+222,Blade Runner 2049,2017,Sci-Fi,Denis Villeneuve
+223,Dune,2021,Sci-Fi,Denis Villeneuve
+224,Arrival,2016,Sci-Fi,Denis Villeneuve
+225,Sicario,2015,Thriller,Denis Villeneuve
+226,Enemy,2013,Mystery,Denis Villeneuve
+227,Joker,2019,Drama,Todd Phillips
+228,War Dogs,2016,Comedy,Todd Phillips
+229,The Hangover,2009,Comedy,Todd Phillips
+230,The Hangover Part II,2011,Comedy,Todd Phillips
+231,The Hangover Part III,2013,Comedy,Todd Phillips
+232,Forrest Gump,1994,Drama,Robert Zemeckis
+233,Cast Away,2000,Drama,Robert Zemeckis
+234,Back to the Future,1985,Sci-Fi,Robert Zemeckis
+235,Back to the Future Part II,1989,Sci-Fi,Robert Zemeckis
+236,Back to the Future Part III,1990,Sci-Fi,Robert Zemeckis
+237,Contact,1997,Sci-Fi,Robert Zemeckis
+238,Who Framed Roger Rabbit,1988,Animation,Robert Zemeckis
+239,The Polar Express,2004,Animation,Robert Zemeckis
+240,Tron,1982,Sci-Fi,Steven Lisberger
+241,Tron: Legacy,2010,Sci-Fi,Joseph Kosinski
+242,Oblivion,2013,Sci-Fi,Joseph Kosinski
+243,Top Gun,1986,Action,Tony Scott
+244,Top Gun: Maverick,2022,Action,Joseph Kosinski
+245,Man on Fire,2004,Action,Tony Scott
+246,Unstoppable,2010,Action,Tony Scott
+247,Enemy of the State,1998,Action,Tony Scott
+248,Spy Game,2001,Thriller,Tony Scott
+249,Cradle 2 the Grave,2003,Action,Andrzej Bartkowiak
+250,Romeo Must Die,2000,Action,Andrzej Bartkowiak
+251,The Shawshank Redemption,1994,Drama,Frank Darabont
+252,The Green Mile,1999,Drama,Frank Darabont
+253,The Mist,2007,Horror,Frank Darabont
+254,Armageddon,1998,Action,Michael Bay
+255,Pearl Harbor,2001,War,Michael Bay
+256,Transformers,2007,Action,Michael Bay
+257,Transformers: Revenge of the Fallen,2009,Action,Michael Bay
+258,Transformers: Dark of the Moon,2011,Action,Michael Bay
+259,Transformers: Age of Extinction,2014,Action,Michael Bay
+260,Transformers: The Last Knight,2017,Action,Michael Bay
+261,13 Hours: The Secret Soldiers of Benghazi,2016,Action,Michael Bay
+262,Bad Boys,1995,Action,Michael Bay
+263,Bad Boys II,2003,Action,Michael Bay
+264,Pain & Gain,2013,Action,Michael Bay
+265,Minority Report,2002,Sci-Fi,Steven Spielberg
+266,Jurassic Park,1993,Adventure,Steven Spielberg
+267,Jurassic Park: The Lost World,1997,Adventure,Steven Spielberg
+268,Jurassic Park III,2001,Adventure,Joe Johnston
+269,Jurassic World,2015,Adventure,Colin Trevorrow
+270,Jurassic World: Fallen Kingdom,2018,Adventure,J.A. Bayona
+271,E.T. the Extra-Terrestrial,1982,Sci-Fi,Steven Spielberg
+272,Close Encounters of the Third Kind,1977,Sci-Fi,Steven Spielberg
+273,Schindler's List,1993,Biography,Steven Spielberg
+274,Saving Private Ryan,1998,War,Steven Spielberg
+275,Ready Player One,2018,Sci-Fi,Steven Spielberg
+276,Jaws,1975,Thriller,Steven Spielberg
+277,Catch Me If You Can,2002,Biography,Steven Spielberg
+278,Indiana Jones: Raiders of the Lost Ark,1981,Adventure,Steven Spielberg
+279,Indiana Jones and the Temple of Doom,1984,Adventure,Steven Spielberg
+280,Indiana Jones and the Last Crusade,1989,Adventure,Steven Spielberg
+281,Indiana Jones and the Kingdom of the Crystal Skull,2008,Adventure,Steven Spielberg
+282,Lincoln,2012,Biography,Steven Spielberg
+283,The Terminal,2004,Comedy,Steven Spielberg
+284,War of the Worlds,2005,Sci-Fi,Steven Spielberg
+285,Munich,2005,Thriller,Steven Spielberg
+286,The Post,2017,Drama,Steven Spielberg
+287,Bridge of Spies,2015,Thriller,Steven Spielberg
+288,Minority Report,2002,Sci-Fi,Steven Spielberg
+289,A.I. Artificial Intelligence,2001,Sci-Fi,Steven Spielberg
+290,Empire of the Sun,1987,Drama,Steven Spielberg
+291,Lincoln,2012,Biography,Steven Spielberg
+292,Amistad,1997,Drama,Steven Spielberg
+293,The Color Purple,1985,Drama,Steven Spielberg
+294,Catch Me If You Can,2002,Biography,Steven Spielberg
+295,Ready Player One,2018,Sci-Fi,Steven Spielberg
+296,Jurassic Park,1993,Adventure,Steven Spielberg
+297,Jurassic World,2015,Adventure,Colin Trevorrow
+298,Raiders of the Lost Ark,1981,Adventure,Steven Spielberg
+299,Schindler's List,1993,Biography,Steven Spielberg
+300,E.T. the Extra-Terrestrial,1982,Sci-Fi,Steven Spielberg
