@@ -17,7 +17,7 @@ Entertainment companies often struggle to make data-driven decisions because the
 * **Editor:** MySQL Workbench
 * **Data Source:** Google Sheets (CSV)
 
-## 📊 Database Schema & ER Diagram
+## Database Schema & ER Diagram
 The system architecture uses a star-like schema to ensure data integrity and reduce redundancy. 
 The database consists of three main tables:
 * **Users Table:** Stores demographic details (Age, Gender, Location).
